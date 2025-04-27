@@ -1,4 +1,3 @@
-[![Main Foodgram workflow](https://github.com/GagarinRu/Tree/actions/workflows/main.yml/badge.svg)](https://github.com/GagarinRu/Tree/actions/workflows/main.yml/)
 # Django Tree Menu
 
 **Реализация древовидного меню для Django с минимальным количеством запросов к БД**
